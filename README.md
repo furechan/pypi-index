@@ -9,13 +9,16 @@ Index located at https://furechan.github.io/pypi-index/
 The index contains a reference to a single package
 - simple-hatch https://github.com/furechan/simple-hatch
 
+
 ## Install via direct reference
 
     pip install "simple-hatch @ git+https://github.com/furechan/simple-hatch#egg=simple-hatch-0.0.0"
 
+
 ## Install using index
 
     pip install --extra-index-url https://furechan.github.io/pypi-index/ simple-hatch
+
 
 ## Check index
 
