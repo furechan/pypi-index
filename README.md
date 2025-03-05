@@ -19,7 +19,7 @@ The index contains a reference to a single package
 
 ## Check index
 
-    curl https://furechan.github.io/pypi-index/simple-hatch
+    curl https://furechan.github.io/pypi-index/simple-hatch/
 
 
 ## Links
@@ -31,3 +31,4 @@ The index contains a reference to a single package
 - https://github.com/ceddlyburge/python-package-server
 - https://github.com/astariul/github-hosted-pypi
 - https://www.bomberbot.com/python/leveraging-github-as-a-pypi-server-an-in-depth-guide/
+
