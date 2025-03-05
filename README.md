@@ -25,13 +25,10 @@ The index contains a reference to a single package
     curl https://furechan.github.io/pypi-index/simple-hatch/
 
 
-## Links
-- https://packaging.python.org/en/latest/specifications/simple-repository-api/
-- https://peps.python.org/pep-0503/#normalized-names
-
 
 # Related projects and Resources
 - https://github.com/ceddlyburge/python-package-server
 - https://github.com/astariul/github-hosted-pypi
-- https://www.bomberbot.com/python/leveraging-github-as-a-pypi-server-an-in-depth-guide/
+- https://packaging.python.org/en/latest/specifications/simple-repository-api/
+- https://peps.python.org/pep-0503/#normalized-names
 
