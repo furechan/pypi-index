@@ -11,8 +11,6 @@ The index contains a reference to a single package
 
 Install via direct reference
 
-    pip install "simple-hatch @ git+https://github.com/furechan/simple-hatch"
-
     pip install "simple-hatch @ git+https://github.com/furechan/simple-hatch#egg=simple-hatch-0.0.0"
 
 Install using index
