@@ -1,6 +1,6 @@
 # Static Pypi Server Example
 
-This is a GitHub pages site, that serves a static PyPi index.
+This is a GitHub pages site, that serves as a static PyPi index.
 
 Based on https://github.com/ceddlyburge/python-package-server
 
